@@ -3,7 +3,7 @@ title: Introducing CR-Sparse
 subtitle: Hardware accelerated functional algorithms for sparse signal processing in Python using JAX 
 slug: cr-sparse
 tags: python, machine-learning, data-science
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1649662225945/7f_c6UxhR.jpg?auto=compress
+cover: https://raw.githubusercontent.com/shailesh1729/hashnode-articles/main/images/srr_cs.png
 domain: shailesh.hashnode.dev
 ---
 
@@ -18,8 +18,6 @@ and linear algebra subroutines for solving sparse linear systems.
 It has been built using Google JAX, which enables the same high level
 Python code to get efficiently compiled on CPU, GPU and TPU architectures
 using XLA. 
-
-![Sparse signal representations and compressive sensing](./images/srr_cs.png)
 
 Traditional signal processing exploits the underlying structure in signals
 by representing them using Fourier or wavelet orthonormal bases. 
@@ -104,7 +102,7 @@ We conducted a number of experiments to benchmark the runtime of
 in Python or MATLAB. 
 Jupyter notebooks to reproduce these micro-benchmarks
 are available on the 
-[`cr-sparse-companion`](https://github.com/carnotresearch/cr-sparse-companion) [@shailesh2021companion]
+[cr-sparse-companion](https://github.com/carnotresearch/cr-sparse-companion)
 repository.
 
 All Python based benchmarks have been run
