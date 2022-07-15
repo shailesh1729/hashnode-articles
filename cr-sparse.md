@@ -4,7 +4,7 @@ subtitle: Hardware accelerated functional algorithms for sparse signal processin
 slug: cr-sparse
 tags: python, machine-learning, data-science
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1649662225945/7f_c6UxhR.jpg?auto=compress
-domain: https://shailesh.hashnode.dev
+domain: shailesh.hashnode.dev
 ---
 
 We introduce [`CR-Sparse`](https://github.com/carnotresearch/cr-sparse), 
