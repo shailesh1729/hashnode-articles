@@ -1,7 +1,7 @@
 ---
 title: Incremental MD5 Hash with Node-JS
 subtitle: Dealing with large buffers of data efficiently 
-slug: cr-sparse
+slug: 2022-07-node-js-md5-hash-incremental
 tags: python, machine-learning, data-science
 cover: https://raw.githubusercontent.com/shailesh1729/hashnode-articles/main/2022/07/images/md5-hash.png
 domain: shailesh.hashnode.dev
