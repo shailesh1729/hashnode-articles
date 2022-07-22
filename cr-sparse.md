@@ -1,8 +1,8 @@
 ---
 title: Introducing CR-Sparse
-subtitle: Hardware accelerated functional algorithms for sparse signal processing in Python using JAX 
+subtitle: Hardware accelerated functional algorithms for sparse signal processing in Python using JAX
 slug: cr-sparse
-tags: python, machine-learning, data-science
+tags: python, machine-learning, data-science, apis, introduction, research
 cover: https://raw.githubusercontent.com/shailesh1729/hashnode-articles/main/images/srr_cs.png
 domain: shailesh.hashnode.dev
 ---
